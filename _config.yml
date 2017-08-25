@@ -16,9 +16,7 @@
 title: Jeff Benson
 email: jeffbensonis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-        Trained in the arts of both Linux and Theology, I bring a unique
-        perspective into any project, tackling it with incredible passion 
-        until things are made right. I fight for the users.
+         I Fight for the Users.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeffersonbenson
