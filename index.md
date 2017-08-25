@@ -8,6 +8,8 @@ title: Home
 # Hello, I'm Jeff.
 
 
-### This site serves as a testbed of sorts. A place to catelog what I've accomplished and give me an opportunity to personally describe my adventures. Please feel at home.
+### This site serves as a testbed of sorts. A place to catalog what I've accomplished and give me an opportunity to personally describe my adventures. Please feel at home.
 
-### I've been trying really hard to understand how all this works, and hopefully it will one day pay off.
+# Contact
+Email: [jeffbensonis@gmail.com](mailto:jeffbensonis@gmail.com)  
+LinkedIn: [Jeff Benson](https://www.linkedin.com/in/jeff-benson-40800085)

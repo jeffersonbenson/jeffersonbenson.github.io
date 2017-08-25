@@ -5,7 +5,9 @@ sidebar_link: true
 ---
 # Projects I've Worked On
 
+## 3D Printing
 ## Docker
-## Ergodox
 ## Drones
+## Ergodox
+## Pentesting
 
