@@ -24,7 +24,7 @@ github_username:  jeffersonbenson
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydeout
+theme: minima
 plugins:
   - jekyll-feed
 
