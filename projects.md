@@ -1,13 +1,12 @@
 ---
-layout: index
+layout: page
 title: Projects
 sidebar_link: true
 ---
-# Projects I've Worked On
-
-## 3D Printing
-## Docker
+## [3D Printing](https://www.thingiverse.com/jeffersonbenson/about) 
+## [Docker](https://github.com/jeffersonbenson/Dockerfiles)
+## [Blogging](https://hebrews4.com/category/blogs/jeff-benson/)
+## [Gaming](https://www.twitch.tv/jeffersonbenson)
 ## Drones
-## Ergodox
 ## Pentesting
 
