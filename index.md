@@ -6,7 +6,7 @@ layout: home
 exclude_from_nav: true
 ---
 
-## Hello, My Name is Jeff.
+### Hello, My Name is Jeff.
 
 
 ### This site serves as a testbed of sorts. A place to catalog what I've accomplished and give me an opportunity to personally describe my adventures. Please feel at home.
